@@ -1,0 +1,54 @@
+.find{
+    display: flex;
+    justify-content: space-around;
+    max-width: 900px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+b{
+    color: chartreuse;
+}
+h2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.parent-h2{
+    line-height: 20px;
+}
+.ul img{
+    width: 400px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+.input{
+    width: 500px;
+    height: 55px;
+    font-size: 40px;
+    display: block;
+}
+.registratsiya{
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+}
+.button{
+    margin-top: 30px;
+    padding: 15px 30px;
+    font-size: 28px;
+    background: linear-gradient(to left top,yellow,blue,red);
+    transition: .5s linear;
+    border-radius: 10px;
+}
+.button:hover{
+    background: linear-gradient(to right bottom,yellow,blue,red);
+    color: white;
+}
+/* ul{
+    width: 800px;
+    height: 500px;
+    background-color: aqua;
+    margin: 50px auto;
+} */
